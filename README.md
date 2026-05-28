@@ -1,4 +1,4 @@
-<h1>Easy Shopping</h1>
+<h1>Compra Segura</h1>
 <br /><br />
 <h2>Esse foi um projeto que eu aprendi no <a href="https://devclub.com.br" target="_blank">DevClub</a></h2>
 <br />
